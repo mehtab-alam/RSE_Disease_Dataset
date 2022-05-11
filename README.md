@@ -11,6 +11,9 @@ We utilize the infectious diseases news articles data for the year '2020'. The d
 4. Lyme
 5. Tick-borne Encephalitis (TBE)
 
+## Attention!
+- Total time to complete the operation for the whole dataset will take almost **half hour** 
+
 
 ## Configuration
 
@@ -57,3 +60,5 @@ The output logs are records for each disease csv file
 
 **Example:** The log details for **articles_AMR_2020.csv** is saved as **logs/AMR.txt** file. A quick view of the **logs/AMR.txt** log file is as follows:
 
+
+![AMR Log file ](example-logs.png)
