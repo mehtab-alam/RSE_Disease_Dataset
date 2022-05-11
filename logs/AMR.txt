@@ -1,0 +1,11 @@
+AMR
+
+
+No. of Total RSI:5
+RSI Actual List :
+['eastern Senegal', 'south-east Asia', 'South Sudan', 'East Asia', 'around Houston']
+
+
+No. of Extracted RSI:4
+RSI Extracted List :
+['eastern Senegal', 'south-east Asia', 'South Sudan', 'East Asia']
